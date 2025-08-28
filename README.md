@@ -12,6 +12,9 @@ This project demonstrates **end-to-end data wrangling, exploratory analysis, cor
 - **out/samples/** — a handful of preview figures.
 - **requirements.txt** — Python dependencies (pandas, numpy, matplotlib, xlsxwriter).
 - **LICENSE** — MIT (open for reuse).
+- **out/engine_analysis_export_sample.xlsx** — trimmed demo version of the full Excel report.  
+  The complete report (~32 MB, 200+ plots) is too large for GitHub’s web upload limit,  
+  but can be reproduced by running the notebook locally.
 
 ---
 
