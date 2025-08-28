@@ -55,4 +55,5 @@ Engine scaling: 6-cyl, ~200–800 Nm torque, 25–55 kg/h fuel flow, 700–1800 
 The Excel export bundles 18 tables and 200+ plots into a single interactive file.
 License
 
-## MIT License — feel free to use, adapt, and build on this work.
+## MIT License 
+Feel free to use, adapt, and build on this work.
